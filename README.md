@@ -8,8 +8,7 @@ In SIGIR Workshop on Information Retrieval in Advertising, 2008.](https://pdfs.s
     2. [D. Hillard, S. Schroedl, E. Manavoglu, H. Raghavan, and C. Leggetter. Improving ad relevance in
 sponsored search. In International Conference on Web Search and Data Mining, pages 361–370. ACM, 2010](http://dl.acm.org/citation.cfm?id=1718532)
     3. [A. Mehta. Online matching and ad allocation. Theoretical Computer Science, 8(4):265–368, 2012](http://www.nowpublishers.com/article/Details/TCS-057)
-    4. [A. Mehta, A. Saberi, U. Vazirani, and V. Vazirani. Adwords and generalized online matching.]
-Journal of the ACM, 54(5):22, 2007.](http://dl.acm.org/citation.cfm?id=1284321)
+    4. [ A. Mehta, A. Saberi, U. Vazirani, and V. Vazirani. Adwords and generalized online matching. Journal of the ACM, 54(5):22, 2007.](http://dl.acm.org/citation.cfm?id=1284321)
     5. [T. Graepel, J. Q. Candela, T. Borchert, and R. Herbrich. Web-scale bayesian click-through rate
 prediction for sponsored search advertising in microsoft’s bing search engine. In International
 Conference on Machine Learning, pages 13–20, 2010.](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_GraepelCBH10.pdf)
