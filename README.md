@@ -3,9 +3,10 @@
 * I will also source code to generate advertising requests post defence of my thesis.
 
 * Related Work : Sponsored Search
+
 * Related Work : Advertising on Long Tail Queries in Spnosored Search
-                 * Query Expansion
-                 * Query Reformulation
+              * Query Expansion
+              * Query Reformulation
 
 
 
