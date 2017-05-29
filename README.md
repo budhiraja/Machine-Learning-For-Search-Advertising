@@ -5,19 +5,5 @@
 * Related Work : Sponsored Search
 
 * Related Work : Advertising on Long Tail Queries in Spnosored Search
-                 1. Query Expansion
-                 2. Query Reformulation
-
-
-
-1. Somethin
-  1. Something
-  2. Something
-2. Something
-
-
-1. Item1
-  1.1. SubItemA
-  1.2. SubItemB
-    - wat
-      - inception noise
+    1. Query Expansion
+    2. Query Reformulation
