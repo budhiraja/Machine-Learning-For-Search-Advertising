@@ -5,8 +5,8 @@
 * Related Work : Sponsored Search
 
 * Related Work : Advertising on Long Tail Queries in Spnosored Search
-              * Query Expansion
-              * Query Reformulation
+                 1. Query Expansion
+                 2. Query Reformulation
 
 
 
