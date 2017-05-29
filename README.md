@@ -2,6 +2,8 @@
 * This repositories is meant to provide related work of long tail advertising for sponsored search (which is the domain of my MS thesis).
 * I will also source code to generate advertising requests post defence of my thesis.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 ## Key Research Papers in Sponsored Search
 
 1. [H. Raghavan and R. Iyer. Evaluating vector-space and probabilistic models for query to ad matching. In SIGIR Workshop on Information Retrieval in Advertising, 2008.](https://pdfs.semanticscholar.org/31f9/4b8c3e2676466bdb273263364a6d9de2b027.pdf)
@@ -22,6 +24,7 @@
 
 9.  [B. J. Jansen and S. Schuster. Bidding on the buying funnel for sponsored search and keyword advertising. Journal of Electronic Commerce Research, 12(1):1, 2011.](http://search.proquest.com/openview/16426d3e812dcfe0c9919456c5174540/1?pq-origsite=gscholar&cbl=44515) 
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Related Work specifically to Long Tail advertising in Sponsored Search
 
@@ -30,3 +33,8 @@ In the literature, the challenges of long tail queries are mainly addressed thro
 ### Query Expansion
 
 ### Query Reformulation
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================================
