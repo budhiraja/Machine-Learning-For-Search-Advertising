@@ -1,5 +1,5 @@
 # Machine Learning for Long Tail Advertising in Sponsored Search
-* This repositories is meant to provide some of the key papers related to machine learning for sponsored search and long tail advertising in sponsored search.
+* This repository is meant to provide some of the key papers related to machine learning for sponsored search and long tail advertising in sponsored search.
 
 **Please feel free to add more papers.**
 
@@ -22,8 +22,6 @@
 7. [X. Li, M. Zhang, Y. Liu, S. Ma, Y. Jin, and L. Ru. Search engine click spam detection based on bipartite graph propagation. In International Conference on Web search and data mining, pages 93–102. ACM, 2014.](http://dl.acm.org/citation.cfm?id=2556214)
 
 8. [ B. J. Jansen and S. Schuster. Bidding on the buying funnel for sponsored search and keyword advertising. Journal of Electronic Commerce Research, 12(1):1, 2011.](http://search.proquest.com/openview/16426d3e812dcfe0c9919456c5174540/1?pq-origsite=gscholar&cbl=44515) 
-
-9.  [B. J. Jansen and S. Schuster. Bidding on the buying funnel for sponsored search and keyword advertising. Journal of Electronic Commerce Research, 12(1):1, 2011.](http://search.proquest.com/openview/16426d3e812dcfe0c9919456c5174540/1?pq-origsite=gscholar&cbl=44515) 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
