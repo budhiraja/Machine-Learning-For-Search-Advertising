@@ -1,5 +1,5 @@
-# Long Tail Advertising in Sponsored Search
-* This repositories is meant to provide some of the key papers to sponsored search and long tail advertising for sponsored search.
+# Machine Learning for Long Tail Advertising in Sponsored Search
+* This repositories is meant to provide some of the key papers related to machine learning for sponsored search and long tail advertising in sponsored search.
 
 **Please feel free to add more papers.**
 
