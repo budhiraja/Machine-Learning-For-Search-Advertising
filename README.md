@@ -1,12 +1,15 @@
 # Machine Learning for Sponsored Search
 * This repository is meant to provide some of the key papers related to machine learning for sponsored search.
-Status on June 1st, 2017 : Added key papers for Spnosored Search and Long Tail queries.
 
-To be added:
-1. CTR Predicition
-2. Ad query relavance papers
-3. Query SubGraph Papers
-4. Ad quality Judgements
+* [Blog post introducing basic papers](https://medium.com/@amarbudhiraja/machine-learning-in-sponsored-search-6c9ab18e6c67)
+
+* Status on June 1st, 2017 : Added key papers for Spnosored Search and Long Tail queries.
+
+* To be added:
+ 1. CTR Predicition
+ 2. Ad query relavance papers
+ 3. Query SubGraph Papers
+ 4. Ad quality Judgements
 
 **Please feel free to add more papers.**
 
