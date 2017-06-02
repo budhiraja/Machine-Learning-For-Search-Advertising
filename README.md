@@ -1,4 +1,4 @@
-# Machine Learning for Sponsored Search
+# Machine Learning in Sponsored Search
 * This repository is meant to provide some of the key papers related to machine learning for sponsored search.
 
 * [Blog post introducing basic papers](https://medium.com/@amarbudhiraja/machine-learning-in-sponsored-search-6c9ab18e6c67)
